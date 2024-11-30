@@ -8,6 +8,10 @@ Individual Assignment 2: The assignment aims to fit an appropriate ARIMA model f
 
 Group Project: The objective of the project is to fit an appropriate Autoregressive Integrated Moving Average (ARIMA) model, Seasonal ARIMA (SARIMA) or any other model the team deem appropriate, to the monthly sales data of anti-diabetic drugs in Australia, spanning from 1992 to 2008.
 
+# Codes
+
+The codes are stated in each of the PDF reports.
+
 # Usage Notice
 
 The codes provided here are strictly not allowed to be used for any money-making purposes or for copyrighting.
